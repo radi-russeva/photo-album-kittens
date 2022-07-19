@@ -1,0 +1,11 @@
+.coverPageContainer {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+}
+.basic {
+    display: block;
+}
+.hidden {
+    display: none;
+}

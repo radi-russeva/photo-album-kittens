@@ -1,0 +1,39 @@
+.cardsContainer, .addCardContainer, .addEditCardContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.addCard {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.addCardProperty{
+    padding: 10px;
+}
+.addCardContainer, .editUserContainer {
+    padding: 15px;
+    flex-direction: column;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin: 10px;
+}
+.header {
+    display: flex;
+    align-items:flex-end;
+    padding: 5px;
+    position: sticky;
+    top: 0px;
+    background-color: #1976d2;
+}
+.header h3 {
+    color: white;
+}
+
+.editUserContainer{
+    float: right;
+}
+.hidden {
+    display: none;
+}

@@ -1,0 +1,17 @@
+.headerLogin {
+    padding: 10px !important;
+    width: 100%;
+    border-bottom: '1px solid #c4c4c4';
+}
+.textInput {
+    padding: 10px 10px 10px 5px !important;
+}
+.logInContainer {
+    padding: 15px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

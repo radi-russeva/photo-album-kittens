@@ -1,0 +1,22 @@
+.headerSignIn {
+    padding: 10px !important;
+    width: 100%;
+    border-bottom: '1px solid #c4c4c4';
+}
+.textInput {
+    padding: 10px !important;
+}
+.signInContainer {
+    padding: 15px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin: 15px;
+}
+.hidden {
+    display: none;
+}
+.log-in-sign-up-btns {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
